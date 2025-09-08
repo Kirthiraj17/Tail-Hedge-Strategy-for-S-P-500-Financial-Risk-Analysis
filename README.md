@@ -1,4 +1,4 @@
-#Tail Hedge Strategy for S&P 500 — Financial Risk Analysis
+# **Tail Hedge Strategy for S&P 500 — Financial Risk Analysis**
 ##Overview
 This project implements a robust, systematic tail hedging algorithm for the S&P 500, analyzing and mitigating left-tail risk during market stress events. Leveraging 15+ years of historical index and options data, the solution quantifies extreme risk, simulates hedging strategies, and reports actionable insights through automated performance metrics and visualizations.
 
